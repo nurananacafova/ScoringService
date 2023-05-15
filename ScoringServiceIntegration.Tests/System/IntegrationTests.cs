@@ -1,4 +1,6 @@
+using System;
 using System.Net;
+using System.Threading.Tasks;
 using Newtonsoft.Json;
 using ScoringService;
 using WireMock.Server;

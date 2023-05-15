@@ -1,3 +1,7 @@
+using System;
+using System.Net.Http;
+using Microsoft.Extensions.Logging;
+
 namespace ScoringService.Utility;
 
 public class ScoringServiceHelper

@@ -1,3 +1,5 @@
+using System.Threading.Tasks;
+
 namespace ScoringService.Utility;
 
 public interface ISubscriberClientHelper
