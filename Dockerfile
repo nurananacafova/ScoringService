@@ -1,1 +1,1 @@
-﻿FROM subscriber_img:v22
+﻿FROM subscriber_test:v1
