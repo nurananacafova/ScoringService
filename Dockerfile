@@ -1,0 +1,1 @@
+﻿FROM subscriber_img:v22
