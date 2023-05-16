@@ -1,1 +1,1 @@
-﻿FROM subscriber_test:v1
+﻿FROM nurananajafova/scoringservice:v1
