@@ -8,8 +8,8 @@ namespace ScoringService.Utility;
 public class SubscriberClientHelper : ISubscriberClientHelper
 {
     private HttpClient _client = new HttpClient();
-    // private readonly Uri _subscriberServiceUrl = new Uri("http://subscriber:5000/api/Subscribers/GetSubscriber/");
-    private readonly Uri _subscriberServiceUrl = new Uri("https://nurananacafova-subscriberservice.nativeci.app/api/Subscribers/GetSubscriber/");
+    private readonly Uri _subscriberServiceUrl = new Uri("http://subscriber:5000/api/Subscribers/GetSubscriber/");
+    // private readonly Uri _subscriberServiceUrl = new Uri("https://nurananacafova-subscriberservice.nativeci.app/api/Subscribers/GetSubscriber/");
 
     public SubscriberClientHelper()
     {
